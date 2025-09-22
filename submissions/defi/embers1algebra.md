@@ -66,7 +66,7 @@ Preferred contact method: Discord - digiovanniraffaele2624
 
 
 **Checklist before submitting:**
-- [ ] All fields completed
-- [ ] GitHub username matches PR author  
-- [ ] SL integration explained
-- [ ] Timeline is realistic
+- [x] All fields completed
+- [x] GitHub username matches PR author  
+- [x] SL integration explained
+- [x] Timeline is realistic
